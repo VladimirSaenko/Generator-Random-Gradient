@@ -2,7 +2,7 @@
 
 ### Генератор рандомного градиента
 
-## Portfolio-3 {
+## Portfolio {
 
 ### https://vladimirsaenko.github.io/Portfolio-3/sites/site-21/Generator-Random-Gradient/index.html
 
