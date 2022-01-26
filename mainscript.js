@@ -10,6 +10,7 @@ let directions = [
     "top",
     "bottom"
 ];
+
 box.style.background = 'linear-gradient(' + `to ${directions[getRandomInt(0, 4)]}` + ',' + 'rgb(' + getRandomInt(0, 255) + ',' + getRandomInt(0, 255) + 
 ',' + getRandomInt(0, 255) + ')' + ',' + 'rgb(' + getRandomInt(0, 255) + ',' + getRandomInt(0, 255) + 
 ',' + getRandomInt(0, 255) + ')' + ')';
